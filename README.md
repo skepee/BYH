@@ -1,4 +1,4 @@
-# byh
+# Book your holidays
 
 Book holidays is a simple page to plan your holidays.
 
