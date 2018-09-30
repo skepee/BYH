@@ -8,3 +8,5 @@ With show/hide panels to choose breakfast (only one) and sightseeing (up to thre
 
  Pin
  Tweet
+ 
+[GitHub](http://github.com)
