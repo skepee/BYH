@@ -7,6 +7,7 @@ Example with three different destinations, round trip to London or Edinburgh or 
 With show/hide panels to choose breakfast (only one) and sightseeing (up to three).
 
 
+
 [Dribbble](https://dribbble.com/shots/5043400-Book-your-holidays)
 
 [Pinterest](https://www.pinterest.co.uk/pin/800655639979644582/)
